@@ -1,0 +1,5 @@
+title: DSRI at Bryn Mawr Demo
+description: A Demo site for the workshop on Digital Research at Bryn Mawr
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
